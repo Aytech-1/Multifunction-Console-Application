@@ -22,4 +22,4 @@ This is a vb.net console application with multiple functionalities including:
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Console-Multifunction-Calculator.git
+   git clone https://github.com/Aytech-1/Multifunction-Console-Application.git
