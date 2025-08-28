@@ -23,3 +23,13 @@ This is a vb.net console application with multiple functionalities including:
 1. Clone this repository:
    ```bash
    git clone https://github.com/Aytech-1/Multifunction-Console-Application.git
+   
+👨‍💻 **Author**
+
+ADEYEMI AYOBAMI SAMSON
+
+📧 Email: adeyemiayobami273@gmail.com
+
+📞 Phone: 09030019355
+
+🌍 Location: Abeokuta, Ogun State, Nigeria
